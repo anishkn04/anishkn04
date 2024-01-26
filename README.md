@@ -1,5 +1,9 @@
 ### Hello there! 👋
 
+-> I am currently pursuing Software Engineering at NCIT, Pokhara University. 💻
+
+
+This week's coding summary:
 <!--START_SECTION:waka-->
 
 ```rust
