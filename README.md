@@ -7,19 +7,15 @@ This week's coding summary:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 August 2023 - To: 25 January 2024
+From: 18 January 2024 - To: 25 January 2024
 
-Total Time: 114 hrs 10 mins
+Total Time: 4 hrs 50 mins
 
-JavaScript       29 hrs 2 mins   XXXXXXx..................   25.17 %
-HTML             27 hrs 3 mins   XXXXXX...................   23.44 %
-PHP              26 hrs 17 mins  XXXXXx...................   22.79 %
-CSS              13 hrs 57 mins  XXX......................   12.10 %
-Java             5 hrs 31 mins   X........................   04.79 %
-TypeScript       2 hrs 47 mins   x........................   02.43 %
-C++              2 hrs 40 mins   x........................   02.32 %
-C                2 hrs 14 mins   x........................   01.94 %
-Other            1 hr 14 mins    x........................   01.07 %
+PHP          2 hrs 59 mins   ███████████████▓░░░░░░░░░   62.06 %
+CSS          41 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+JavaScript   37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+Java         27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+Python       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
