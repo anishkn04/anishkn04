@@ -7,7 +7,7 @@ This week's coding summary:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 February 2024 - To: 11 February 2024
+From: 05 February 2024 - To: 12 February 2024
 
 Total Time: 4 hrs 35 mins
 
