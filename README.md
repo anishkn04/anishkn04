@@ -7,17 +7,19 @@ This week's coding summary:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 February 2024 - To: 21 February 2024
+From: 15 February 2024 - To: 22 February 2024
 
-Total Time: 4 hrs 42 mins
+Total Time: 7 hrs 49 mins
 
-Java         2 hrs 7 mins    ▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░   45.17 %
-CSS          1 hr 22 mins    ▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░   29.24 %
-C++          40 mins         ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   14.32 %
-XML          18 mins         ▓▒░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-JavaScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-C            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Java             3 hrs 43 mins   ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░   47.58 %
+CSS              2 hrs 10 mins   ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░   27.73 %
+JavaScript       50 mins         ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+C++              40 mins         ▓▓░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+XML              18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+C                2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Git Config       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
