@@ -7,20 +7,20 @@ This week's coding summary:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 February 2024 - To: 03 March 2024
+From: 26 February 2024 - To: 04 March 2024
 
-Total Time: 22 hrs 52 mins
+Total Time: 16 hrs 39 mins
 
-Java              15 hrs 34 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   67.80 %
-CSS               2 hrs 51 mins   ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-XML               1 hr 18 mins    ▓▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-PHP               56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-JavaScript        43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-SQL               34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-HTML              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-ECLiPSe           10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-IDEA_MODULE       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Markdown          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Java              11 hrs 13 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   67.06 %
+CSS               2 hrs 43 mins   ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   16.26 %
+XML               48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+SQL               30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+JavaScript        29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+HTML              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+ECLiPSe           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+IDEA_MODULE       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Markdown          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Other             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
