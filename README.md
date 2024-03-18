@@ -7,16 +7,16 @@ This week's coding summary:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 March 2024 - To: 16 March 2024
+From: 10 March 2024 - To: 17 March 2024
 
-Total Time: 11 hrs 46 mins
+Total Time: 12 hrs 47 mins
 
-PHP          7 hrs 4 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   60.07 %
-JavaScript   2 hrs 32 mins   ▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░░   21.59 %
-C++          1 hr 45 mins    ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   14.91 %
-HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-SQL          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+PHP          7 hrs 4 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░   55.39 %
+C++          2 hrs 43 mins   ▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░░   21.28 %
+JavaScript   2 hrs 34 mins   ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   20.17 %
+HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+CSS          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+SQL          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
