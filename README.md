@@ -7,15 +7,15 @@ This week's coding summary:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 March 2024 - To: 26 March 2024
+From: 20 March 2024 - To: 27 March 2024
 
-Total Time: 1 hr 28 mins
+Total Time: 1 hr 54 mins
 
-Java             1 hr 4 mins     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░   72.58 %
-XML              15 mins         ▓▓▓▓▒░░░░░░░░░░░░░░░░░░░░   17.62 %
-C                2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-SQL              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Java             1 hr 25 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░   74.76 %
+XML              16 mins         ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   14.44 %
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+SQL              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+C                2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
