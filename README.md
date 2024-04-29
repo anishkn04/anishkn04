@@ -7,14 +7,15 @@ This week's coding summary:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 April 2024 - To: 27 April 2024
+From: 21 April 2024 - To: 28 April 2024
 
-Total Time: 58 mins
+Total Time: 2 hrs 46 mins
 
-JavaScript   35 mins         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   60.23 %
-CSS          15 mins         ▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░   25.71 %
-JSON         7 mins          ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   12.99 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+JavaScript   2 hrs 20 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   84.46 %
+CSS          15 mins         ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+JSON         9 mins          ▓▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
