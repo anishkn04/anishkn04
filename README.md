@@ -1,6 +1,8 @@
-### Hello there! 👋
+### Hello there! I'm Anish👋
 
 -> I am currently pursuing Software Engineering at NCIT, Pokhara University. 💻
+-> Interested in Software and Open Source. 📖
+-> Always trying my best and giving it all. 💪
 
 
 This week's coding summary:
