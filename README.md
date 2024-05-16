@@ -7,20 +7,17 @@ This week's coding summary:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 May 2024 - To: 14 May 2024
+From: 08 May 2024 - To: 15 May 2024
 
-Total Time: 9 hrs 12 mins
+Total Time: 6 hrs 2 mins
 
-JavaScript    6 hrs 56 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   75.28 %
-HTML          51 mins         ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-Markdown      22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-CSS           18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-PHP           16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Bash          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Image (svg)   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Batchfile     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-JSON          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JavaScript    4 hrs 19 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░   71.53 %
+HTML          51 mins         ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   14.17 %
+Markdown      22 mins         ▓▒░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+CSS           18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Image (svg)   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+JSON          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
