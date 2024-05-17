@@ -4,8 +4,8 @@
 -> Interested in Software and Open Source. 📖\
 -> Always trying my best and giving it all. 💪
 
-
-This week's coding summary:
+<details close>
+<summary>This week's coding summary:</summary>
 <!--START_SECTION:waka-->
 
 ```rust
@@ -24,3 +24,4 @@ Other         0 secs          ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+</details>
