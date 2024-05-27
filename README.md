@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anishnep51@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=anishkn04)
+![](https://komarev.com/ghpvc/?username=anishkn04) ![.](https://wakatime.com/badge/user/94d81ee3-6d83-4140-9f4e-8efa1f6f0d46.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
