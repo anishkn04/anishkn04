@@ -23,7 +23,7 @@
 <p align=center>
   <p align="center">
 <a width="45%" href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=anishkn04&theme=react&border=61dafb&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anishkn04&show_icons=true&theme=react" />
 </a>
 <a width="45%" href="https://github.com/anuraghazra/github-readme-stats#language-stats-algorithm">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishkn04&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=8&hide=html,css&" />
